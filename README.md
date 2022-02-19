@@ -1,5 +1,5 @@
 # Shader Tools
-This C++ library is intended to be used in conjunction with OpenGL.
+This C++ library is intended to be used in conjunction with OpenGL. Streamlines shader compilation and linking.
 
 ## Version Notes
 
